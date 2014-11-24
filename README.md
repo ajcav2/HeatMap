@@ -1,4 +1,3 @@
 HeatMap
 =======
 
-git init
